@@ -70,10 +70,11 @@ You may reach me at kylebrazier@gmail.com for further questions.
 
 ## Links
 
-<!-- https://nameless-brook-84052.herokuapp.com/ -->
+https://fierce-basin-40849.herokuapp.com/
 
 ## Screenshots
-<!-- ![wireframe](./public/images/wireframe.png)
-![screenshot1](./public/images/2020-10-13.png)
-![screenshot2](./public/images/2020-10-13_(1).png)
-![gifshot1](./public/images/Untitled_Oct_13_2020_10_50_AM.gif) -->
+![screenshot1](./public/images/2020-10-25.png)
+![screenshot2](./public/images/2020-10-25_(1).png)
+![screenshot3](./public/images/2020-10-25_(2).png)
+![screenshot4](./public/images/2020-10-25_(3).png)
+![screenshot5](./public/images/2020-10-25_(4).png)
